@@ -1,14 +1,8 @@
 body {
-        background-color:darkslateblue;
+        background: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-36.jpg");
         
         }
 img {
-width: 284px;
-    height: 177px;
-}
-#firstH2{
-    color: red;
-}
-#secondH2{
-    color: aqua;
+width: 280px;
+    height: 199px;
 }
